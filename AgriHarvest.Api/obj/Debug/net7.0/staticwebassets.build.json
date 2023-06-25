@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FeLrS5w5hC330xjgb+qEnfBOXQ40NF7eWq6TwOrgVTI=",
+  "Source": "AgriHarvest.Api",
+  "BasePath": "_content/AgriHarvest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
