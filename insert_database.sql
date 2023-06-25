@@ -1,10 +1,9 @@
-INSERT INTO Category VALUES ('vegetables'),('fruits'),('meats'),('cereals'); 
+INSERT INTO Category VALUES ('Vegetables'),('Fruits'),('Meats'),('Cereals'); 
 
-INSERT INTO Product VALUES 
-							(5.6, 'beans', 1),
-							(6.1, 'peas', 1),
-							(1.5, 'apricots', 2),
-							(8, 'strawberries', 2),
-							(1, 'sausages', 3),
-							(4.25, 'wheat', 4),
-							(4, 'corn', 4);
+INSERT INTO Product VALUES 	('Beans', 'Delicious beans recolted in Alabama',5.6, 1),
+							('Carrot', 'Crunchy and nutritious carrots',0.79, 1),
+							('Orange', 'Sweet and citrusy oranges', 0.99, 2),
+							('Strawberry', 'Plump and delicious strawberries', 3.99, 2),
+							('Sausages','Pack of 6 sausages, ready to go on the grill !',4, 3),
+							('Wheat', 'Nutritious grains for wholesome goodness', 2.99,4),
+							('Corn', 'Versatile kernels for delicious delights', 1.49, 4);
