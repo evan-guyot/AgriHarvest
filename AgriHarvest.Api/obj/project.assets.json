@@ -3884,19 +3884,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\evang\\.nuget\\packages\\": {}
+    "C:\\Users\\eguyot2022\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\AgriHarvest\\AgriHarvest.Api\\AgriHarvest.Api.csproj",
+      "projectUniqueName": "C:\\Users\\eguyot2022\\AgriHarvest\\AgriHarvest.Api\\AgriHarvest.Api.csproj",
       "projectName": "AgriHarvest.Api",
-      "projectPath": "D:\\Git\\AgriHarvest\\AgriHarvest.Api\\AgriHarvest.Api.csproj",
-      "packagesPath": "C:\\Users\\evang\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\AgriHarvest\\AgriHarvest.Api\\obj\\",
+      "projectPath": "C:\\Users\\eguyot2022\\AgriHarvest\\AgriHarvest.Api\\AgriHarvest.Api.csproj",
+      "packagesPath": "C:\\Users\\eguyot2022\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eguyot2022\\AgriHarvest\\AgriHarvest.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\evang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eguyot2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3904,6 +3904,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3968,7 +3969,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
